@@ -32,4 +32,4 @@ export default function Arlist() {
       </div>
     </div>
   );
-}
+};
